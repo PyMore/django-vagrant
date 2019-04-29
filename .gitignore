@@ -145,3 +145,6 @@ tags
 
 #sqlite2
 *.sqlite2
+
+#Vagrant
+/.vagrant/
